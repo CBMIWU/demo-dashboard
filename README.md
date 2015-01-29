@@ -1,9 +1,12 @@
 Demo Dashboard
 ==============
 
-Executive Producer: Leslie McIntosh
-Developer: Connie Zabarovskaya
-Project Manager: Mary Uhlmansiek
+**Executive Producer**: Leslie McIntosh
+
+**Developer**: Connie Zabarovskaya
+
+**Project Manager**: Mary Uhlmansiek
+
 Center for Biomedical Informatics
 Washington University in St. Louis
 
